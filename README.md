@@ -1,5 +1,5 @@
 <h1>Aspect Ratio Cheat Sheet</h1>
-<p>Below are some common aspect ratios and their pixel resolutions. Always confirm your final delivery ratio when shooting.<br>If you think there should be an addition or correction, please <a href="mailto:jasonwatson@rennovus.com?subject=Aspect%20Ratio%20Correction"><strong>email</strong></a>.</p>
+<p>Below are some common aspect ratios and their pixel resolutions. Always confirm your final delivery ratio when shooting.<br>If you think there should be an addition or correction, please <a href="mailto:admin@rennovus.com?subject=Aspect%20Ratio%20Correction"><strong>email</strong></a>.</p>
 
 
 <h3>
